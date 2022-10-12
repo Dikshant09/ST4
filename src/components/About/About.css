@@ -1,0 +1,14 @@
+h1{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 72px;
+    color:#95dada;
+  }
+
+.footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+}
