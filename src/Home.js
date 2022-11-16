@@ -34,7 +34,6 @@ const Home = () => {
           <h1>Monsters duplex</h1>
           <SearchBox placeholder = 'search monsters' handleChange = { (e) => handleChange(e) }/>
           <CardList monsters = {filteredMonsters}/>
-          {/* <Link></Link> */}
         </div>
       </>
     )
